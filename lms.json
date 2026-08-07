@@ -1,0 +1,9 @@
+{
+  "homeworks": [
+  ],
+  "submissions": [
+  ],
+  "exams": [
+    {"exam_id": 1, "offering_num": 1, "title": "test", "question": "?", "max_score": 100}
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "FCS101",
+    "password": "pass",
+    "first_name": "Hossein",
+    "last_name": "Asadi",
+    "national_code": "0011223344",
+    "field": "Computer Engineering",
+    "entrance_year": "1395",
+    "degree": "PhD",
+    "department": "Computer Engineering",
+    "ans1": "Tehran",
+    "ans2": "Shahnameh",
+    "ans3": "Black"
+  },
+  {
+    "id": "FCS105",
+    "password": "pass",
+    "first_name": "Hasan",
+    "last_name": "Rezaei",
+    "national_code": "0022334455",
+    "field": "Computer Engineering",
+    "entrance_year": "1398",
+    "degree": "PhD",
+    "department": "Computer Engineering",
+    "ans1": "Tabriz",
+    "ans2": "Hafez",
+    "ans3": "Red"
+  }
+]

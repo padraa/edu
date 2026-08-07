@@ -1,0 +1,5 @@
+[
+  {"id": 1, "type": "course offering", "course_name": "Advanced Algorithms", "faculty_id": "FCS101", "faculty_name": "Dr. Hossein Asadi", "department": "Computer Engineering", "capacity": 30, "enrollments": 0},
+  {"id": 2, "type": "course removing", "course_name": "Compiler Design", "faculty_id": "FCS107", "faculty_name": "Dr. Sara Nikpour", "department": "Computer Engineering", "capacity": 25, "enrollments": 0},
+  {"id": 3, "type": "capacity increment", "course_name": "Data Structures", "faculty_id": "FCS101", "faculty_name": "Dr. Hossein Asadi", "department": "Computer Engineering", "capacity": 40, "enrollments": 35}
+]

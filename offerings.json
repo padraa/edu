@@ -1,0 +1,8 @@
+[
+  {"number": 1, "course_id": "CS201", "course_name": "Data Structures", "faculty_id": "FCS101", "faculty_name": "Dr. Hossein Asadi", "semester": "14042", "capacity": 35, "enrollments": 32, "department": "Computer Engineering", "place": "Room 405"},
+  {"number": 2, "course_id": "EE112", "course_name": "Digital Logic Design", "faculty_id": "FEE203", "faculty_name": "Dr. Maryam Ghafari", "semester": "14042", "capacity": 30, "enrollments": 28, "department": "Electrical Engineering", "place": "Lab 201"},
+  {"number": 3, "course_id": "ME301", "course_name": "Thermodynamics I", "faculty_id": "FME315", "faculty_name": "Dr. Reza Karimi", "semester": "14042", "capacity": 40, "enrollments": 38, "department": "Mechanical Engineering", "place": "Room 102"},
+  {"number": 4, "course_id": "CS401", "course_name": "Software Engineering", "faculty_id": "FCS107", "faculty_name": "Dr. Sara Nikpour", "semester": "14042", "capacity": 25, "enrollments": 20, "department": "Computer Engineering", "place": "Room 305"},
+  {"number": 5, "course_id": "CS101", "course_name": "Introduction to Programming", "faculty_id": "FCS105", "faculty_name": "Dr. Hasan Rezaei", "semester": "14042", "capacity": 40, "enrollments": 38, "department": "Computer Engineering", "place": "Room 201"},
+  {"number": 6, "course_id": "CS201", "course_name": "Data Structures", "faculty_id": "FCS105", "faculty_name": "Dr. Hasan Rezaei", "semester": "14041", "capacity": 35, "enrollments": 30, "department": "Computer Engineering", "place": "Room 203"}
+]
